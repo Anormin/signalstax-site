@@ -148,7 +148,7 @@ body {
 }
 
 .nav-cta {
-  padding: 8px 16px;
+  padding: 4px 8px;
   border-radius: var(--radius-pill);
   border: 1px solid var(--accent);
   background-color: #ffffff;
