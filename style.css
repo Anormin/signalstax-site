@@ -115,7 +115,7 @@ body {
   top: 0;
   z-index: 20;
   background-color: #ffffff;
-  border-bottom: 1px solid var(--border-subtle);
+  border-bottom: 0.3px solid var(--border-subtle);
 }
 
 .nav-container {
